@@ -4,7 +4,7 @@
 
 
 /* 
-   C RAIN
+    RAIN
    */
 
 @keyframes rain {
@@ -97,7 +97,7 @@
   position: absolute;
   inset: 0;
 
-  background: white;
+  background: rgb(217, 230, 229);
 
   opacity: 0;
 
